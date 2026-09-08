@@ -11,7 +11,7 @@ The main purpose of this project is **learning and practice**, not creating a fu
 
 While building it, I learned how to break a large webpage into smaller sections and then build and style each section individually.
 
-What I Learned-
+Amazon Clone – Final Website Preview-
 
 1. Top Section — Navigation Bar & Search
 Shows the Amazon-style navbar, logo, location, search bar, account section, and cart.
@@ -104,12 +104,7 @@ This project helped me move from simply understanding HTML and CSS concepts to a
 The biggest lesson for me was that web development is not only about writing code. It is also about **testing, finding mistakes, debugging, and continuously improving the design**.
 
 This is one of my learning projects, and I plan to keep building more projects as I learn **JavaScript, responsive design, and full-stack development**.
-
- Disclaimer-
-
-This project is created **strictly for educational and learning purposes**. It is an Amazon-inspired clone and is **not affiliated with, sponsored by, or officially connected to Amazon**.
-
-
+  
 
  
 
