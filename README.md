@@ -1,5 +1,5 @@
 # Amazon-Clone-Webpage
-For your **Amazon Clone GitHub repository**, you can use this description:  > **A responsive Amazon Clone webpage built using HTML and CSS, featuring an Amazon-style navigation bar, search section, product categories, hover effects, and a full-width footer. Created as a front-end web development practice project.**
+A responsive Amazon Clone webpage built using HTML and CSS, featuring an Amazon-style navigation bar, search section, product categories, hover effects, and a full-width footer. Created as a front-end web development practice project.**
  A beginner-friendly **Amazon-inspired website clone** built using **HTML and CSS** as part of my web development learning journey.
  About This Project-
 
